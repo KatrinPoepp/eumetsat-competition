@@ -1,0 +1,10 @@
+# requirement file for pip installation
+# pip install -r requirements.txt 
+haversine
+geopandas
+folium
+hda
+rasterio
+rtree
+geocube
+matplotlib
